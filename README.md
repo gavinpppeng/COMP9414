@@ -1,2 +1,2 @@
-# COMP9414
-AI
+# COMP9414 19T1
+Overview of Artificial Intelligence. Topics include: the representation of knowledge, search techniques, problem solving, machine learning, expert systems, natural language understanding, computer vision and an Artificial Intelligence programming language (Prolog or LISP). Students may be required to submit simple Art ificial Intelligence programs, or essays on an aspect of A.I, for assessment, in areas such as robotics, computer vision, natural language processing, and machine learning.
